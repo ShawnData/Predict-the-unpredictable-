@@ -2,7 +2,7 @@ After college, I was offered a job as the purchasing supervisor at Oak Patch Gif
 
 In the paper, "Demand Forecasting in the Fashion Industry: A Review" by Maria Elena Nenni, Luca Giustiniano and Luca Pirolo in the International Journal of Engineering Business Management, the authors listed the issues of forecasting demand in the fashion industry: short product life-cycles, short selling season, long replenishment lead time, high impusle purchasing, high volatility, high varance, lack of historical data. All these issues pose great challenges in forecasting demand accurately; as the authors stated, "the reality that is now gradually being accepted both by those who work in the industry and those who research forecasting is that the demand for fashion products cannot be forecast."  
 
-Here is my work to challenge such conclusion. 
+Here is my work of which in an attempt to challenge such conclusion. 
 
 
 
